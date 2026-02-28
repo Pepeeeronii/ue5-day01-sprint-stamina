@@ -21,5 +21,5 @@
 3. Hold Left Shift to sprint and drain stamina
 
 ## Screenshots / Video
-- Add screenshots here (recommended)
-- Add a short gameplay clip (recommended)
+- screenshots
+- gameplay clip
